@@ -1,0 +1,65 @@
+{"zip-1.zip":
+    {
+        "画像1.jpg": 
+        {
+            "date": "2017-08-11",
+            "amount": "85550",
+            "tel": "0352091010",
+            "issuer": "ヨドバシカメラ AKIBA店",
+            "options": {
+                "amount_detail": {
+                    "tax_free_amount": "",
+                    "8_percent_amount": "",
+                    "10_percent_amount": "",
+                    "8_percent_tax": "",
+                    "10_percent_tax": "",
+                    "cashless_reward": "",
+                    "eco_reward": ""
+                },
+                "amount_verification": "false",
+                "payment_type": "creditcard",
+                "proviso": "",
+                "recipient": "宇真事務所",
+                "tax_type": "unknown",
+                "confidences": {
+                    "date": 0.598,
+                    "amount": 0.856,
+                    "tel": 0.997,
+                    "issuer_name": 0.998,
+                    "logo": 0.735
+                }
+            }
+        },
+        "画像2.jpg": 
+        {
+            "date": "2017-08-11",
+            "amount": "85550",
+            "tel": "0352091010",
+            "issuer": "ヨドバシカメラ AKIBA店",
+            "options": {
+                "amount_detail": {
+                    "tax_free_amount": "",
+                    "8_percent_amount": "",
+                    "10_percent_amount": "",
+                    "8_percent_tax": "",
+                    "10_percent_tax": "",
+                    "cashless_reward": "",
+                    "eco_reward": ""
+                },
+                "amount_verification": "false",
+                "payment_type": "creditcard",
+                "proviso": "",
+                "recipient": "宇真事務所",
+                "tax_type": "unknown",
+                "confidences": {
+                    "date": 0.598,
+                    "amount": 0.856,
+                    "tel": 0.997,
+                    "issuer_name": 0.998,
+                    "logo": 0.735
+                }
+            }
+        }
+    }
+}
+
