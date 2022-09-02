@@ -112,8 +112,8 @@ $header[] =
 
 $obj->csv_export($header, $receipt_data);
 
-// echo '<pre>';
-// var_dump($receipt_data);
-// echo '</pre>';
+echo '<pre>';
+var_dump($receipt_data);
+echo '</pre>';
 
 ?>
